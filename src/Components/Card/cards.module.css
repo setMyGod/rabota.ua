@@ -1,0 +1,165 @@
+.father{
+    display: flex;
+    justify-content: center;
+    width: 1300px;
+}
+.wrap{
+    margin-top: 40px;
+    height: 370px;
+    width: 750px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 10px rgba(5, 5, 6, 0.05);
+    background: #FFFFFF;
+    justify-content: flex-start;
+
+}
+.new{
+    height: 20px;
+    width: 61px;
+    border-radius: 5px;
+    background:  #FFE9E9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    box-sizing: border-box;
+    margin-top: 10px;
+
+}
+.newspan{
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    color: #BC0002;
+
+
+}
+
+.parandfishki{
+    display: flex;
+    justify-content:space-between;
+    margin-top: -10px;
+
+
+
+
+}
+.content{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    color: #212527;
+    margin-left: 20px;
+
+}
+.fishka{
+    margin-right: 20px;
+
+}
+
+.money{
+    display: flex;
+    margin-top: -20px;
+    box-sizing: border-box;
+
+
+}
+.moneyfowork{
+    font-size: 16px;
+    line-height: 20px;
+    color: #212527;
+    margin-left: 20px;
+
+}
+.percent{
+    font-size: 16px;
+    line-height: 20px;
+    color: #687e88;
+    margin-left: 10px;
+}
+.townlink {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 20px;
+    text-align: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: -20px;
+}
+
+.kyiv{
+    font-size: 16px;
+    line-height: 20px;
+    color: #212527;
+    text-align: center;
+}
+.ua{
+    font-size: 16px;
+    line-height: 20px;
+    color: #FF5252;
+    text-decoration: none;
+
+}
+.menu{
+    display: flex;
+    margin-left: 20px;
+    gap: 10px;
+    align-items: center;
+    text-align: center;
+    font-size: 14px;
+    line-height: 20px;
+    color: #212527;
+
+}
+.text{
+    display: flex;
+    border: 1px solid #C8D1D6;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 30px;
+    width: 116px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+
+}
+.textlong{
+    display: flex;
+    border: 1px solid #C8D1D6;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 30px;
+    width: 184px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.bold{
+    width: 20px;
+    height: 20px;
+
+}
+.footerimg{
+    margin-top:20px;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 20px;
+    gap: 10px;
+    align-items: center;
+
+}
+.label{
+    margin-left: 10px;
+}
+.shape{
+    margin-left: 30px;
+}
+.dislike{
+    margin-left: 31px;
+}
+.date{
+    margin-left: 324px;
+}
