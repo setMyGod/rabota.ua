@@ -1,7 +1,7 @@
 .father{
     display: flex;
     justify-content: center;
-    width: 1300px;
+    width: 100%;
 }
 .wrap{
     margin-top: 40px;
@@ -162,4 +162,13 @@
 }
 .date{
     margin-left: 324px;
+}
+
+
+@media screen and (max-width:400px) {
+    .wrap{
+        display: none;
+
+    }
+
 }

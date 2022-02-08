@@ -8,16 +8,7 @@ import shape from './images/Shape.png'
 import dislike from './images/path5074 5.png'
 import bold from './images/Bold@2x.png'
 
-const Card = (props) => {
-    let {about} = props
-    let{moneyfowork} = props
-    let{fishka} = props
-    let{percent} = props
-    let{ua} = props
-    let{city} = props
-    let {fitcha} = props
-    let{fitcha2} = props
-    let {fitcha3} =props
+const Card = ({about, moneyfowork, fishka,percent,ua,city,fitcha,fitcha2,fitcha3}) => {
 
 
     return (
